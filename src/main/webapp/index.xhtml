@@ -3,7 +3,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml"
       xmlns:h="jakarta.faces.html"
       xmlns:f="jakarta.faces.core"
-      xmlns:p="http://primefaces.org/ui">
+      xmlns:p="http://primefaces.org/ui" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://primefaces.org/ui
+jakarta.faces.core ">
 <h:head>
     <h:outputStylesheet name="resources/css/mycsslayout.css"/>
     <h:outputScript name="resources/js/script.js" target="head"/>
@@ -19,7 +21,7 @@
                 <f:selectItems value="#{bb.systemRoles}"/>
             </p:selectOneMenu>
             <h:outputText value="  "/>
-            <h:commandButton value="Nouveau chat" action="#{bb.nouveauChat}" />
+            <h:commandButton value="Nouveau chat" action="#{bb.nouveauChat}"/>
             <h:panelGrid id="paneltotal" columns="2" columnClasses="topAligned,topAligned">
                 <h:panelGrid id="panelgauche" columns="1">
                     <h:panelGrid id="questionetreponse" columns="1">
