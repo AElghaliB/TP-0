@@ -152,28 +152,28 @@ public class Bb implements Serializable {
 
     public List<SelectItem> getSystemRoles() {
         List<SelectItem> listeSystemRoles = new ArrayList<>();
-        // Ces rôles ne seront utilisés que lorsque la réponse sera données par un LLM.
+        // Ces rôles ne seront utilisés que lorsque la réponse sera donnée par un LLM.
         String role = """
-                You are a helpful assistant. You help the user to find the information they need.
-                If the user type a question, you answer it.
-                """;
+            You are a helpful assistant. You help the user to find the information they need.
+            If the user type a question, you answer it.
+            """;
         listeSystemRoles.add(new SelectItem(role, "Assistant"));
         role = """
-                You are an interpreter. You translate from English to French and from French to English.
-                If the user type a French text, you translate it into English.
-                If the user type an English text, you translate it into French.
-                If the text contains only one to three words, give some examples of usage of these words in English.
-                """;
-        // 1er argument : la valeur du rôle, 2ème argument : le libellé du rôle
+            You are an interpreter. You translate from English to French and from French to English.
+            If the user type a French text, you translate it into English.
+            If the user type an English text, you translate it into French.
+            If the text contains only one to three words, give some examples of usage of these words in English.
+            """;
         listeSystemRoles.add(new SelectItem(role, "Traducteur Anglais-Français"));
         role = """
-                Your are a travel guide. If the user type the name of a country or of a town,
-                you tell them what are the main places to visit in the country or the town
-                are you tell them the average price of a meal.
-                """;
+            Your are a travel guide. If the user type the name of a country or of a town,
+            you tell them what are the main places to visit in the country or the town
+            are you tell them the average price of a meal.
+            """;
         listeSystemRoles.add(new SelectItem(role, "Guide touristique"));
         // Présélectionne le premier rôle de la liste.
-                this.systemRole = (String) listeSystemRoles.getFirst().getValue();
+        this.systemRole = (String) listeSystemRoles.get(0).getValue();
         return listeSystemRoles;
     }
+
 }
