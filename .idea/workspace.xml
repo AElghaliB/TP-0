@@ -9,11 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d33f87bc-74d2-4deb-ac57-c76578b9c49b" name="Changes" comment="&quot;Exercice Bonus terminer&quot;">
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ma/emsi/tp0benhida/Bb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/emsi/tp0benhida/jsf/Bb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
+    <list default="true" id="d33f87bc-74d2-4deb-ac57-c76578b9c49b" name="Changes" comment="&quot;Ajout du README et Modification de l'emplacement du Baking Bean&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +174,7 @@
       <workItem from="1732716170040" duration="149000" />
       <workItem from="1732717769492" duration="70000" />
       <workItem from="1733054359973" duration="2446000" />
-      <workItem from="1733061191829" duration="350000" />
+      <workItem from="1733061191829" duration="580000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;page JSF(j'ai mis jsp par obligation)&quot;">
       <option name="closed" value="true" />
@@ -203,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733054851234</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;Ajout du README et Modification de l'emplacement du Baking Bean&quot;">
+      <option name="closed" value="true" />
+      <created>1733061697041</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733061697041</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,10 +224,22 @@
     <option featureType="dependencySupport" implementationName="java:org.primefaces:primefaces" />
     <option featureType="dependencySupport" implementationName="java:jakarta.faces:jakarta.faces-api" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;page JSF(j'ai mis jsp par obligation)&quot;" />
     <MESSAGE value="&quot;Phase de test-non fonctionnel&quot;" />
     <MESSAGE value="&quot;Exercice Bonus terminer&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Exercice Bonus terminer&quot;" />
+    <MESSAGE value="&quot;Ajout du README et Modification de l'emplacement du Baking Bean&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Ajout du README et Modification de l'emplacement du Baking Bean&quot;" />
   </component>
 </project>
