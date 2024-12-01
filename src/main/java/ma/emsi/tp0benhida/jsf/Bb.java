@@ -1,4 +1,4 @@
-package ma.emsi.tp0benhida;
+package ma.emsi.tp0benhida.jsf;
 
 import jakarta.faces.application.FacesMessage;
 import jakarta.faces.context.FacesContext;
