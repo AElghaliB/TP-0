@@ -10,7 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d33f87bc-74d2-4deb-ac57-c76578b9c49b" name="Changes" comment="&quot;Ajout du README et Modification de l'emplacement du Baking Bean&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
     "Payara Server.tp-0.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/HP/Desktop/5IIR-M2/Agents_conversationnels_en_Java/tp0-BENHIDA",
@@ -67,7 +68,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Global Libraries",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.41379312",
     "settings.editor.selected.configurable": "preferences.pluginManager",
@@ -174,7 +175,8 @@
       <workItem from="1732716170040" duration="149000" />
       <workItem from="1732717769492" duration="70000" />
       <workItem from="1733054359973" duration="2446000" />
-      <workItem from="1733061191829" duration="580000" />
+      <workItem from="1733061191829" duration="1564000" />
+      <workItem from="1733067203505" duration="1051000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;page JSF(j'ai mis jsp par obligation)&quot;">
       <option name="closed" value="true" />
