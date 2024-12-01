@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d33f87bc-74d2-4deb-ac57-c76578b9c49b" name="Changes" comment="&quot;Phase de test-non fonctionnel&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ma/emsi/tp0benhida/Bb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/emsi/tp0benhida/Bb.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/Desktop/5IIR-M2/Agents_conversationnels_en_Java/tp0-BENHIDA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -119,6 +121,10 @@
       <workItem from="1732385426712" duration="4325000" />
       <workItem from="1732555074511" duration="32000" />
       <workItem from="1732629411717" duration="531000" />
+      <workItem from="1732716122083" duration="14000" />
+      <workItem from="1732716170040" duration="149000" />
+      <workItem from="1732717769492" duration="70000" />
+      <workItem from="1733054359973" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;page JSF(j'ai mis jsp par obligation)&quot;">
       <option name="closed" value="true" />
